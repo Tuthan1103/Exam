@@ -1,0 +1,31 @@
+/* src/components/ChemicalApp.css */
+.ChemicalApp {
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .ChemicalApp h2 {
+    text-align: center;
+  }
+  
+  .ChemicalApp table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .ChemicalApp th,
+  .ChemicalApp td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .ChemicalApp th {
+    background-color: #f2f2f2;
+  }
+  
+  .ChemicalApp input[type="text"] {
+    width: 33%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
